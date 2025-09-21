@@ -13,10 +13,27 @@ $${\color{a2d2ff}My Setup:}$$
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 # 
 $${\color{a2d2ff}Todo:}$$
+>-	*Learn GoDot*
+>-	*Ardu-WozMon*
+>-	*Checksums*
+>-	*Phased arrays*
+
 >-	*Wave function collapse*
+>-	*Soft Body Physics*
+>-	*Marching Squares*
+>-	*Fluid Physics*
+>-	*Physics Engine*
+
+>-	*Rendering with Rotation and Projection*
+>-	*Raycasting*
+>-	*Marching Cubes*
+>-	*Ray Marching*
+>-	*Ray Tracing*
+
+>-	*Motion Extraction*
 >-	*...*
 #
-$${\color{a2d2ff}Înfo:}$$
+$${\color{a2d2ff}Info:}$$
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grafredstone&show_icons=true&theme=transparent&locale=en&layout=compact" alt="grafredstone" /></p>  
